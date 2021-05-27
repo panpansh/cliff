@@ -16,7 +16,7 @@
   "dependencies": {
     "colors": "~1.0.3",
     "eyes": "~0.1.8",
-    "winston": "3.3.3"
+    "winston": "2.4.5"
   },
   "devDependencies": {
     "vows": "0.8.x"
